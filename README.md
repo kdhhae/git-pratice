@@ -4,6 +4,5 @@ Practicing Git&amp; Github
 
 ## Who has been here?
 
--[x] kdhhae
-
-- [ ]
+- [x] kdhhae
+- [x]
